@@ -69,3 +69,39 @@ Welcome to the **Automated Book Publication** project! This tool automates book 
 ├── reinforcement/ # RL optimization algorithms
 ├── output/ # Generated books and logs
 └── README.md # Project documentation
+
+</details>
+
+---
+
+<details>
+<summary>🎯 How to Contribute</summary>
+
+We welcome contributions! Here’s how you can help:
+
+1. Fork the repo  
+2. Create a feature branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m 'Add feature'`)  
+4. Push to your branch (`git push origin feature-name`)  
+5. Open a Pull Request
+
+Please ensure your code follows the existing style and add tests for new features.
+
+</details>
+
+---
+
+<details>
+<summary>📞 Contact & Support</summary>
+
+- Created by **Aditya M.**  
+- For questions, open an issue or contact me at: [your.email@example.com](mailto:your.email@example.com)  
+- Join our discussion channel: [Discord Invite Link](https://discord.gg/yourlink)
+
+</details>
+
+---
+
+**Enjoy automated book publishing!** 🚀📖
+
+
