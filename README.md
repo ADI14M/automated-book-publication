@@ -95,13 +95,13 @@ Please ensure your code follows the existing style and add tests for new feature
 <summary>📞 Contact & Support</summary>
 
 - Created by **Aditya M.**  
-- For questions, open an issue or contact me at: [your.email@example.com](mailto:your.email@example.com)  
-- Join our discussion channel: [Discord Invite Link](https://discord.gg/yourlink)
+- For questions, open an issue or contact me at: [adityamsharma2010@gmail.com](adityamsharma2010@gmail.com)  
 
 </details>
 
 ---
 
 **Enjoy automated book publishing!** 🚀📖
+
 
 
