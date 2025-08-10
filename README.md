@@ -59,3 +59,13 @@ Welcome to the **Automated Book Publication** project! This tool automates book 
 <details>
 <summary>🗂️ Project Structure</summary>
 
+
+├── main.py # Entry point to run the workflow
+├── requirements.txt # Python dependencies
+├── .env # Environment variables & API keys (not committed)
+├── scraper/ # Web scraping modules
+├── generation/ # AI generation scripts
+├── editing/ # Human-in-the-loop editing tools
+├── reinforcement/ # RL optimization algorithms
+├── output/ # Generated books and logs
+└── README.md # Project documentation
